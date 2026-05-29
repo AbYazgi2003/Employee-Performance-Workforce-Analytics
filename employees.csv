@@ -1,0 +1,26 @@
+employee_id,name,department,age,gender,experience_years,salary,work_hours_per_week,projects_completed,performance_score,attendance_rate,overtime_hours,remote_work,training_hours,resigned
+1001,Ali,AI,25,Male,2,3200,45,5,78,92,6,Yes,12,No
+1002,Sara,Data Science,29,Female,5,5200,50,9,91,96,10,No,25,No
+1003,Omar,Cyber Security,35,Male,8,7000,60,12,88,85,15,No,30,No
+1004,Lina,AI,27,Female,3,4000,42,6,84,98,4,Yes,18,No
+1005,Ahmad,Software,31,Male,6,6100,55,11,79,80,20,No,10,Yes
+1006,Mona,Data Science,26,Female,2,3900,40,5,95,99,2,Yes,35,No
+1007,Yousef,Cyber Security,40,Male,12,9500,65,15,70,60,25,No,5,Yes
+1008,Nour,AI,24,Female,1,3000,38,4,90,97,1,Yes,20,No
+1009,Khaled,Software,33,Male,7,6700,58,10,82,88,12,No,15,No
+1010,Rama,Data Science,28,Female,4,4800,47,8,93,95,7,Yes,28,No
+1011,Sami,AI,23,Male,1,2800,35,3,55,65,0,Yes,5,Yes
+1012,Dana,Cyber Security,37,Female,10,8700,62,14,97,99,18,No,40,No
+1013,Adam,Software,30,Male,5,,52,9,81,90,11,No,12,No
+1014,Huda,AI,26,Female,3,4100,44,6,,94,5,Yes,20,No
+1015,Tariq,Data Science,45,Male,20,15000,70,20,99,100,30,No,50,No
+1016,Leen,Software,22,Female,1,2600,36,2,65,72,1,Yes,8,Yes
+1017,Majed,Cyber Security,34,Male,7,7200,59,11,85,87,14,No,18,No
+1018,Rania,AI,29,Female,4,5000,48,8,92,96,6,Yes,22,No
+1019,Fadi,Software,38,Male,11,8900,64,13,77,78,22,No,9,Yes
+1020,Nadine,Data Science,27,Female,3,4300,46,7,89,93,4,Yes,24,No
+1021,Karim,AI,500,Male,2,3500,45,5,80,90,5,Yes,15,No
+1022,Salma,Software,29,Female,4,4700,47,8,88,95,6,Yes,18,No
+1023,Basel,Data Science,32,Male,6,6100,53,9,82,89,10,No,14,No
+1024,Jana,Cyber Security,28,Female,4,5100,49,7,91,97,7,Yes,21,No
+1025,Wael,AI,31,Male,5,5800,55,10,86,84,13,No,11,Yes
